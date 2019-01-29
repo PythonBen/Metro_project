@@ -1,0 +1,608 @@
+index "Nodes station" stations
+0 176 Madeleine
+1 281 Pyramides
+2 282 Pyramides
+3 228 "Palais Royal, Musée du Louvre"
+4 255 Pont-Neuf
+5 71 Châtelet
+6 254 Pont-Marie
+7 345 "Sully Morland"
+8 149 Jussieu
+9 241 "Place Monge"
+10 49 "Censier Daubenton"
+11 164 "Les Gobelins"
+12 244 "Place d'Italie"
+13 352 Tolbiac
+14 184 "Maison Blanche"
+15 260 "Porte d'Italie"
+16 266 "Porte de Choisy"
+17 261 "Porte d'Ivry"
+18 237 "Pierre Curie"
+19 179 "Mairie d'Ivry"
+20 237 "Pierre Curie"
+21 179 "Mairie d'Ivry"
+22 237 "Pierre Curie"
+23 261 "Porte d'Ivry"
+24 266 "Porte de Choisy"
+25 260 "Porte d'Italie"
+26 184 "Maison Blanche"
+27 161 "Le Kremlin-Bicêtre"
+28 364 "Villejuif, Léo Lagrange"
+29 365 "Villejuif, P. Vaillant Couturier"
+30 363 "Villejuif, Louis Aragon"
+31 365 "Villejuif, P. Vaillant Couturier"
+32 363 "Villejuif, Louis Aragon"
+33 365 "Villejuif, P. Vaillant Couturier"
+34 364 "Villejuif, Léo Lagrange"
+35 161 "Le Kremlin-Bicêtre"
+36 364 "Villejuif, Léo Lagrange"
+37 161 "Le Kremlin-Bicêtre"
+38 184 "Maison Blanche"
+39 352 Tolbiac
+40 244 "Place d'Italie"
+41 242 "Place d'Italie"
+42 46 Campo-Formio
+43 329 Saint-Marcel
+44 118 "Gare d'Austerlitz"
+45 288 "Quai de la Rapée"
+46 17 Bastille
+47 40 Bréguet-Sabin
+48 297 "Richard Lenoir"
+49 219 Oberkampf
+50 313 République
+51 140 "Jacques Bonsergent"
+52 122 "Gare de l'Est"
+53 125 "Gare du Nord"
+54 340 Stalingrad
+55 143 Jaurès
+56 160 Laumière
+57 226 Ourcq
+58 270 "Porte de Pantin"
+59 134 Hoche
+60 374 "Église de Pantin"
+61 29 "Bobigny-Pantin, Raymond Queneau"
+62 28 "Bobigny, Pablo Picasso"
+63 29 "Bobigny-Pantin, Raymond Queneau"
+64 374 "Église de Pantin"
+65 134 Hoche
+66 270 "Porte de Pantin"
+67 226 Ourcq
+68 160 Laumière
+69 143 Jaurès
+70 142 Jaurès
+71 339 Stalingrad
+72 151 "La Chapelle"
+73 13 "Barbès Rochechouart"
+74 5 Anvers
+75 239 Pigalle
+76 27 Blanche
+77 246 "Place de Clichy"
+78 302 Rome
+79 366 Villiers
+80 204 Monceau
+81 85 Courcelles
+82 351 Ternes
+83 56 "Charles de Gaulle, Étoile"
+84 362 "Victor Hugo"
+85 256 "Porte Dauphine"
+86 362 "Victor Hugo"
+87 256 "Porte Dauphine"
+88 362 "Victor Hugo"
+89 56 "Charles de Gaulle, Étoile"
+90 55 "Charles de Gaulle, Étoile"
+91 6 Argentine
+92 258 "Porte Maillot"
+93 166 "Les Sablons"
+94 252 "Pont de Neuilly"
+95 102 "Esplanade de la Défense"
+96 130 "Grande Arche de la Défense"
+97 102 "Esplanade de la Défense"
+98 252 "Pont de Neuilly"
+99 166 "Les Sablons"
+100 258 "Porte Maillot"
+101 6 Argentine
+102 55 "Charles de Gaulle, Étoile"
+103 127 "George V"
+104 109 "Franklin D. Roosevelt"
+105 50 "Champs Élysées, Clémenceau"
+106 77 Concorde
+107 356 Tuileries
+108 227 "Palais Royal, Musée du Louvre"
+109 173 "Louvre, Rivoli"
+110 67 Châtelet
+111 135 "Hôtel de Ville"
+112 331 "Saint-Paul, Le Marais"
+113 16 Bastille
+114 119 "Gare de Lyon"
+115 295 "Reuilly Diderot"
+116 212 Nation
+117 275 "Porte de Vincennes"
+118 328 "Saint-Mandé, Tourelle"
+119 43 Bérault
+120 66 "Château de Vincennes"
+121 43 Bérault
+122 66 "Château de Vincennes"
+123 43 Bérault
+124 328 "Saint-Mandé, Tourelle"
+125 275 "Porte de Vincennes"
+126 212 Nation
+127 213 Nation
+128 12 Avron
+129 1 "Alexandre Dumas"
+130 235 Philippe-Auguste
+131 284 "Père Lachaise"
+132 211 Ménilmontant
+133 86 Couronnes
+134 21 Belleville
+135 75 "Colonel Fabien"
+136 21 Belleville
+137 20 Belleville
+138 283 Pyrénées
+139 146 Jourdain
+140 247 "Place des Fêtes"
+141 357 Télégraphe
+142 278 "Porte des Lilas"
+143 183 "Mairie des Lilas"
+144 278 "Porte des Lilas"
+145 279 "Porte des Lilas"
+146 320 Saint-Fargeau
+147 233 Pelleport
+148 116 Gambetta
+149 115 Gambetta
+150 263 "Porte de Bagnolet"
+151 114 Galliéni
+152 263 "Porte de Bagnolet"
+153 115 Gambetta
+154 285 "Père Lachaise"
+155 305 "Rue Saint-Maur"
+156 229 Parmentier
+157 312 République
+158 350 Temple
+159 8 "Arts et Métiers"
+160 309 "Réaumur Sébastopol"
+161 336 Sentier
+162 38 Bourse
+163 289 "Quatre Septembre"
+164 223 Opéra
+165 132 "Havre Caumartin"
+166 327 Saint-Lazare
+167 103 Europe
+168 367 Villiers
+169 189 Malesherbes
+170 370 Wagram
+171 286 Péreire
+172 264 "Porte de Champerret"
+173 171 "Louise Michel"
+174 4 "Anatole France"
+175 251 "Pont de Levallois, Bécon"
+176 4 "Anatole France"
+177 251 "Pont de Levallois, Bécon"
+178 4 "Anatole France"
+179 171 "Louise Michel"
+180 264 "Porte de Champerret"
+181 286 Péreire
+182 370 Wagram
+183 189 Malesherbes
+184 367 Villiers
+185 103 Europe
+186 327 Saint-Lazare
+187 325 Saint-Lazare
+188 353 "Trinité d'Estienne d'Orves"
+189 217 "Notre Dame de Lorette"
+190 322 Saint-Georges
+191 238 Pigalle
+192 0 Abbesses
+193 159 "Lamarck Caulaincourt"
+194 147 "Jules Joffrin"
+195 191 "Marcadet Poissonniers"
+196 194 "Marx Dormoy"
+197 276 "Porte de la Chapelle"
+198 194 "Marx Dormoy"
+199 191 "Marcadet Poissonniers"
+200 192 "Marcadet Poissonniers"
+201 337 Simplon
+202 268 "Porte de Clignancourt"
+203 337 Simplon
+204 192 "Marcadet Poissonniers"
+205 64 "Château Rouge"
+206 14 "Barbès Rochechouart"
+207 124 "Gare du Nord"
+208 121 "Gare de l'Est"
+209 65 "Château d'Eau"
+210 342 "Strasbourg Saint-Denis"
+211 310 "Réaumur Sébastopol"
+212 375 "Étienne Marcel"
+213 165 "Les Halles"
+214 70 Châtelet
+215 73 Cité
+216 330 Saint-Michel
+217 222 Odéon
+218 323 Saint-Germain-des-Prés
+219 334 Saint-Sulpice
+220 333 Saint-Placide
+221 208 "Montparnasse Bienvenue"
+222 361 Vavin
+223 292 Raspail
+224 95 "Denfert Rochereau"
+225 210 Mouton-Duvernet
+226 3 Alésia
+227 262 "Porte d'Orléans"
+228 3 Alésia
+229 262 "Porte d'Orléans"
+230 3 Alésia
+231 210 Mouton-Duvernet
+232 95 "Denfert Rochereau"
+233 96 "Denfert Rochereau"
+234 293 Raspail
+235 101 "Edgar Quinet"
+236 209 "Montparnasse Bienvenue"
+237 232 Pasteur
+238 348 "Sèvres Lecourbe"
+239 45 Cambronne
+240 155 "La Motte Picquet, Grenelle"
+241 98 Dupleix
+242 26 Bir-Hakeim
+243 230 Passy
+244 354 Trocadéro
+245 30 Boissière
+246 150 Kléber
+247 57 "Charles de Gaulle, Étoile"
+248 150 Kléber
+249 57 "Charles de Gaulle, Étoile"
+250 150 Kléber
+251 30 Boissière
+252 354 Trocadéro
+253 355 Trocadéro
+254 306 "Rue de la Pompe"
+255 157 "La Muette"
+256 291 Ranelagh
+257 141 Jasmin
+258 197 "Michel Ange Auteuil"
+259 199 "Michel Ange Molitor"
+260 104 Exelmans
+261 271 "Porte de Saint-Cloud"
+262 193 "Marcel Sembat"
+263 25 Billancourt
+264 253 "Pont de Sèvres"
+265 25 Billancourt
+266 253 "Pont de Sèvres"
+267 25 Billancourt
+268 193 "Marcel Sembat"
+269 271 "Porte de Saint-Cloud"
+270 104 Exelmans
+271 199 "Michel Ange Molitor"
+272 198 "Michel Ange Molitor"
+273 52 "Chardon Lagâche"
+274 201 Mirabeau
+275 145 Javel
+276 54 "Charles Michels"
+277 11 "Avenue Émile Zola"
+278 154 "La Motte Picquet, Grenelle"
+279 349 Ségur
+280 99 Duroc
+281 358 Vaneau
+282 346 "Sèvres Babylone"
+283 174 Mabillon
+284 221 Odéon
+285 74 "Cluny, La Sorbonne"
+286 195 "Maubert Mutualité"
+287 47 "Cardinal Lemoine"
+288 148 Jussieu
+289 117 "Gare d'Austerlitz"
+290 148 Jussieu
+291 47 "Cardinal Lemoine"
+292 195 "Maubert Mutualité"
+293 74 "Cluny, La Sorbonne"
+294 221 Odéon
+295 174 Mabillon
+296 346 "Sèvres Babylone"
+297 347 "Sèvres Babylone"
+298 308 "Rue du Bac"
+299 338 Solférino
+300 9 "Assemblée Nationale"
+301 78 Concorde
+302 175 Madeleine
+303 177 Madeleine
+304 79 Concorde
+305 138 Invalides
+306 158 "La Tour-Maubourg"
+307 371 "École Militaire"
+308 156 "La Motte Picquet, Grenelle"
+309 76 Commerce
+310 111 "Félix Faure"
+311 35 Boucicaut
+312 172 Lourmel
+313 240 "Place Balard"
+314 172 Lourmel
+315 240 "Place Balard"
+316 172 Lourmel
+317 35 Boucicaut
+318 111 "Félix Faure"
+319 76 Commerce
+320 156 "La Motte Picquet, Grenelle"
+321 371 "École Militaire"
+322 158 "La Tour-Maubourg"
+323 138 Invalides
+324 137 Invalides
+325 359 Varenne
+326 321 "Saint-Francois Xavier"
+327 100 Duroc
+328 207 "Montparnasse Bienvenue"
+329 113 Gaité
+330 234 Pernety
+331 249 Plaisance
+332 273 "Porte de Vanves"
+333 187 "Malakoff-Plateau de Vanves"
+334 188 "Malakoff-Rue Étienne Dolet"
+335 72 Châtillon-Montrouge
+336 188 "Malakoff-Rue Étienne Dolet"
+337 187 "Malakoff-Plateau de Vanves"
+338 273 "Porte de Vanves"
+339 249 Plaisance
+340 234 Pernety
+341 113 Gaité
+342 207 "Montparnasse Bienvenue"
+343 206 "Montparnasse Bienvenue"
+344 106 Falguière
+345 231 Pasteur
+346 368 Volontaires
+347 360 Vaugirard
+348 80 Convention
+349 274 "Porte de Versailles"
+350 81 "Corentin Celton"
+351 178 "Mairie d'Issy"
+352 81 "Corentin Celton"
+353 178 "Mairie d'Issy"
+354 81 "Corentin Celton"
+355 274 "Porte de Versailles"
+356 80 Convention
+357 360 Vaugirard
+358 368 Volontaires
+359 231 Pasteur
+360 106 Falguière
+361 206 "Montparnasse Bienvenue"
+362 218 Notre-Dame-des-Champs
+363 294 Rennes
+364 218 Notre-Dame-des-Champs
+365 294 Rennes
+366 347 "Sèvres Babylone"
+367 308 "Rue du Bac"
+368 338 Solférino
+369 9 "Assemblée Nationale"
+370 78 Concorde
+371 175 Madeleine
+372 176 Madeleine
+373 281 Pyramides
+374 69 Châtelet
+375 68 Châtelet
+376 136 "Hôtel de Ville"
+377 290 Rambuteau
+378 7 "Arts et Métiers"
+379 311 République
+380 129 Goncourt
+381 20 Belleville
+382 283 Pyrénées
+383 146 Jourdain
+384 247 "Place des Fêtes"
+385 248 "Place des Fêtes"
+386 280 Pré-Saint-Gervais
+387 92 Danube
+388 34 Botzaris
+389 41 "Buttes Chaumont"
+390 31 Bolivar
+391 144 Jaurès
+392 170 "Louis Blanc"
+393 169 "Louis Blanc"
+394 341 Stalingrad
+395 300 Riquet
+396 87 Crimée
+397 82 Corentin-Cariou
+398 277 "Porte de la Villette"
+399 10 "Aubervilliers-Pantin, Quatre Chemins"
+400 108 "Fort d'Aubervilliers"
+401 152 "La Courneuve, 8 Mai 1945"
+402 108 "Fort d'Aubervilliers"
+403 152 "La Courneuve, 8 Mai 1945"
+404 108 "Fort d'Aubervilliers"
+405 10 "Aubervilliers-Pantin, Quatre Chemins"
+406 277 "Porte de la Villette"
+407 82 Corentin-Cariou
+408 87 Crimée
+409 300 Riquet
+410 341 Stalingrad
+411 169 "Louis Blanc"
+412 63 "Château Landon"
+413 123 "Gare de l'Est"
+414 250 Poissonnière
+415 44 Cadet
+416 162 "Le Peletier"
+417 59 "Chaussée d'Antin, La Fayette"
+418 224 Opéra
+419 225 Opéra
+420 298 "Richelieu Drouot"
+421 303 "Rue Montmartre, Grands Boulevards"
+422 32 "Bonne Nouvelle"
+423 343 "Strasbourg Saint-Denis"
+424 314 République
+425 107 "Filles du Calvaire"
+426 335 Saint-Sébastien-Froissart
+427 61 "Chemin Vert"
+428 18 Bastille
+429 163 "Ledru Rollin"
+430 105 Faidherbe-Chaligny
+431 296 "Reuilly Diderot"
+432 205 Montgallet
+433 94 Daumesnil
+434 200 "Michel Bizot"
+435 257 "Porte Dorée"
+436 265 "Porte de Charenton"
+437 167 Liberté
+438 53 Charenton-Écoles
+439 372 "École Vétérinaire de Maisons-Alfort"
+440 186 "Maisons-Alfort, Stade"
+441 185 "Maisons-Alfort les Juilliottes"
+442 91 "Créteil-l'Echat, Hôpital Henri Mondor"
+443 90 Créteil-Université
+444 89 Créteil-Préfecture
+445 90 Créteil-Université
+446 91 "Créteil-l'Echat, Hôpital Henri Mondor"
+447 185 "Maisons-Alfort les Juilliottes"
+448 186 "Maisons-Alfort, Stade"
+449 372 "École Vétérinaire de Maisons-Alfort"
+450 53 Charenton-Écoles
+451 167 Liberté
+452 265 "Porte de Charenton"
+453 257 "Porte Dorée"
+454 200 "Michel Bizot"
+455 94 Daumesnil
+456 93 Daumesnil
+457 19 "Bel Air"
+458 236 Picpus
+459 214 Nation
+460 215 Nation
+461 42 Buzenval
+462 190 Maraîchers
+463 269 "Porte de Montreuil"
+464 301 Robespierre
+465 88 "Croix de Chavaux"
+466 181 "Mairie de Montreuil"
+467 88 "Croix de Chavaux"
+468 181 "Mairie de Montreuil"
+469 88 "Croix de Chavaux"
+470 301 Robespierre
+471 269 "Porte de Montreuil"
+472 190 Maraîchers
+473 42 Buzenval
+474 215 Nation
+475 307 "Rue des Boulets"
+476 58 Charonne
+477 369 Voltaire
+478 316 Saint-Ambroise
+479 220 Oberkampf
+480 315 République
+481 344 "Strasbourg Saint-Denis"
+482 33 "Bonne Nouvelle"
+483 304 "Rue Montmartre, Grands Boulevards"
+484 299 "Richelieu Drouot"
+485 60 "Chaussée d'Antin, La Fayette"
+486 133 "Havre Caumartin"
+487 317 Saint-Augustin
+488 203 Miromesnil
+489 332 "Saint-Philippe du Roule"
+490 110 "Franklin D. Roosevelt"
+491 2 "Alma Marceau"
+492 139 Iéna
+493 355 Trocadéro
+494 306 "Rue de la Pompe"
+495 157 "La Muette"
+496 291 Ranelagh
+497 141 Jasmin
+498 197 "Michel Ange Auteuil"
+499 196 "Michel Ange Auteuil"
+500 259 "Porte d'Auteuil"
+501 36 "Boulogne, Jean Jaurès"
+502 37 "Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube"
+503 36 "Boulogne, Jean Jaurès"
+504 37 "Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube"
+505 36 "Boulogne, Jean Jaurès"
+506 198 "Michel Ange Molitor"
+507 52 "Chardon Lagâche"
+508 201 Mirabeau
+509 145 Javel
+510 373 "Église d'Auteuil"
+511 196 "Michel Ange Auteuil"
+512 259 "Porte d'Auteuil"
+513 198 "Michel Ange Molitor"
+514 52 "Chardon Lagâche"
+515 201 Mirabeau
+516 145 Javel
+517 54 "Charles Michels"
+518 11 "Avenue Émile Zola"
+519 154 "La Motte Picquet, Grenelle"
+520 349 Ségur
+521 99 Duroc
+522 358 Vaneau
+523 99 Duroc
+524 100 Duroc
+525 321 "Saint-Francois Xavier"
+526 359 Varenne
+527 137 Invalides
+528 51 "Champs Élysées, Clémenceau"
+529 202 Miromesnil
+530 326 Saint-Lazare
+531 168 Liège
+532 245 "Place de Clichy"
+533 153 "La Fourche"
+534 39 Brochant
+535 267 "Porte de Clichy"
+536 180 "Mairie de Clichy"
+537 112 "Gabriel Péri, Asnières-Gennevilliers"
+538 180 "Mairie de Clichy"
+539 112 "Gabriel Péri, Asnières-Gennevilliers"
+540 180 "Mairie de Clichy"
+541 267 "Porte de Clichy"
+542 39 Brochant
+543 153 "La Fourche"
+544 131 "Guy Môquet"
+545 272 "Porte de Saint-Ouen"
+546 126 Garibaldi
+547 182 "Mairie de Saint-Ouen"
+548 48 "Carrefour Pleyel"
+549 318 "Saint-Denis-Porte de Paris"
+550 15 "Basilique de Saint-Denis"
+551 319 Saint-Denis-Université
+552 15 "Basilique de Saint-Denis"
+553 318 "Saint-Denis-Porte de Paris"
+554 48 "Carrefour Pleyel"
+555 182 "Mairie de Saint-Ouen"
+556 126 Garibaldi
+557 272 "Porte de Saint-Ouen"
+558 131 "Guy Môquet"
+559 272 "Porte de Saint-Ouen"
+560 126 Garibaldi
+561 182 "Mairie de Saint-Ouen"
+562 48 "Carrefour Pleyel"
+563 318 "Saint-Denis-Porte de Paris"
+564 15 "Basilique de Saint-Denis"
+565 319 Saint-Denis-Université
+566 15 "Basilique de Saint-Denis"
+567 319 Saint-Denis-Université
+568 15 "Basilique de Saint-Denis"
+569 318 "Saint-Denis-Porte de Paris"
+570 48 "Carrefour Pleyel"
+571 182 "Mairie de Saint-Ouen"
+572 126 Garibaldi
+573 272 "Porte de Saint-Ouen"
+574 131 "Guy Môquet"
+575 153 "La Fourche"
+576 245 "Place de Clichy"
+577 168 Liège
+578 326 Saint-Lazare
+579 202 Miromesnil
+580 51 "Champs Élysées, Clémenceau"
+581 50 "Champs Élysées, Clémenceau"
+582 77 Concorde
+583 356 Tuileries
+584 227 "Palais Royal, Musée du Louvre"
+585 173 "Louvre, Rivoli"
+586 67 Châtelet
+587 135 "Hôtel de Ville"
+588 331 "Saint-Paul, Le Marais"
+589 16 Bastille
+590 119 "Gare de Lyon"
+591 120 "Gare de Lyon"
+592 22 Bercy
+593 84 "Cour Saint-Émilion"
+594 24 "Bibliothèque François Mitterand"
+595 84 "Cour Saint-Émilion"
+596 22 Bercy
+597 23 Bercy
+598 97 Dugommier
+599 23 Bercy
+600 287 "Quai de la Gare"
+601 62 Chevaleret
+602 216 Nationale
+603 243 "Place d'Italie"
+604 83 Corvisart
+605 128 Glacière
+606 324 Saint-Jacques
