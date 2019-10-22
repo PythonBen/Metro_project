@@ -261,3 +261,5 @@ def scan_initnode():
     
 #scan_initnode()                          # uncomment and run to sweep all the inital starting nodes (0 to 375)
                                            # simulation take about 4 min on my laptop.
+
+#lets try to build a class
